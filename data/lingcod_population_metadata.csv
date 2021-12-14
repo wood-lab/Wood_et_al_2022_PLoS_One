@@ -1,0 +1,19 @@
+﻿variable,definition
+Sample.ID,unique identifier assigned to each lingcod caught
+Method,"method by which lingcod was caught (i.e., hook and line)"
+Region,"region in which sampling location was situated (i.e., Alaska, Puget Sound, Washington [i.e., outer coast], Northern California, Oregon, Central California, Southern California)"
+Date.yymmdd,date on which lingcod was caught
+Port,port where lingcod was landed
+Location,site where sampling was conducted (n = 94 unique sites)
+Vessel,vessel from which lingcod was caught (n = 51 unique vessels)
+Angler.no,unique identifier assigned to each angler
+Drift.no,unique identifier assigned to each drift for each day of sampling
+Time.min,time at which lingcod was caught
+Lat,latitude of sampling location in decimal degrees
+Long,longitude of sampling location in decimal degrees
+Depth.ft,depth of sampling location in feet
+TL.cm,total length of lingcod in centimeters
+Color,"color of lingcod (i.e., blue or brown)"
+Sex,"sex of lingcod (i.e., male or female)"
+FultonsK,"Fulton's K (i.e., ratio of weight to cubed length) of lingcod "
+HSI,"hepatosomatic index (i.e., relative liver weight) of lingcod"

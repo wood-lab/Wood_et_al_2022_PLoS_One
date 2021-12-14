@@ -1,0 +1,40 @@
+﻿variable,definition
+sample_ID,unique identifier assigned to each lingcod caught
+date_of_collection,date on which lingcod was caught
+sex,"sex of lingcod (i.e., male or female)"
+TL_cm,total length of lingcod in centimeters
+fultons_K,"Fulton's K (i.e., ratio of weight to cubed length) of lingcod "
+HSI,"hepatosomatic index (i.e., relative liver weight) of lingcod"
+color,"color of lingcod (i.e., blue or brown)"
+sampling_region,"region in which sampling location was situated (i.e., Alaska, Puget Sound, Northern California, Southern California)"
+sampling_location,site where sampling was conducted (n = 26 unique sites)
+lat,latitude of sampling location in decimal degrees
+long,longitude of sampling location in decimal degrees
+depth_ft,depth of sampling location in feet
+date_of_dissection,date on which lingcod was subjected to parasitological dissection
+dissector_initials,"initials of the person who dissected the lingcod (AG = Alanna Greene, KL = Katie Leslie, KL and AG = Katie Leslie and Alanna Greene, EAF = Evan Fiorenza)"
+CHONAR,count of Chondracanthus narium
+LEPPRA,count of Lepeophtheirus pravipes
+LEPBRE,count of Lepeophtheirus breviventris
+CHALIM,count of chalimus copepod larvae
+LIRVUL,count of Lironeca vulgaris
+GNASPP,count of gnathiid spp.
+UDOADU,count of Udonella spp.
+DERVAR,count of Derogenes varicus
+RHIELO,count of Rhipidocotyle elongata
+PROAPE,count of Prosorhynchus apertus
+LECGIB,count of Lecithaster gibbosus
+BUCEP1,count of bucephalid sp. 1
+BUCEP2,count of bucephalid sp. 2
+PODTHE,count of Podocotyle theragrae
+METACE,count of fin and muscle metacercariae
+TRYSPP,count of Trypanorhyncha spp.
+CUCELO,count of Cucullanus elongatus
+THYADU,count of Hysterothylacium aduncum
+NEMLAR,count of larval nematodes
+HYSMAG,count of Hysterothylacium magnum
+NEMWHI,count of nematode sp. 1
+CORWEG,count of Corynosoma wegeneri
+CORCET,count of Corynosoma cetaceum
+ACANT1,count of acanthocephalan sp. 1
+ACANT2,count of acanthocephalan sp. 2
